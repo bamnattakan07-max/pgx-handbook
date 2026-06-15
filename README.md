@@ -186,4 +186,6 @@ Crews KR, Gaedigk A, Dunnenberger HM, et al. CPIC guideline for codeine and CYP2
 
  Sukasem C, Chamnanphol M, Koomdee N, et al. High prevalence of CYP2C19 poor and intermediate metabolizers in Thai population: implications for clopidogrel therapy. Pharmacogenomics. 2013;14(5):527-531. doi:10.2217/pgs.12.210
 
+Hongkaew Y, Gaedigk A, Wilffert B, Ngamsamut N, Kittitharaphan W, Limsila P, Sukasem C. Relationship between CYP2D6 genotype, activity score and phenotype in a pediatric Thai population treated with risperidone. Sci Rep. 2021 Feb 18;11(1):4158. doi: 10.1038/s41598-021-83570-w.
+
  ธาวิณี จันทรรวงทอง. (2564). Personalized Medicine: การรักษาสมัยใหม่ลึกถึงระดับยีน [เอกสารประกอบคำบรรยาย]. อนุสาขาวิชาเภสัชพันธุศาสตร์ ภาควิชาพยาธิวิทยา คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล. https://www.rama.mahidol.ac.th/academic/sites/default/files/...
