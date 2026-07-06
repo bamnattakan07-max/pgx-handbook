@@ -250,7 +250,11 @@ CYP2D6 *1/*4
 *แนวทางที่เหมาะสม:* แพทย์อาจพิจารณาเพิ่มขนาดยา หรือเปลี่ยนไปใช้ยาลดกรดชนิดอื่นที่ไม่ผ่านกระบวนการนี้มากนัก
 
 ---
-
+> Reference
+> 1.Pharmacogene Variation Consortium (PharmVar) https://www.pharmvar.org
+> 2. Pharmacogenomics Knowledgebase (PharmGKB)  https://www.pharmgkb.org
+> 3. Clinical Pharmacogenetics Implementation Consortium (CPIC)  https://cpicpgx.org
+> 4. Crews, K. R., Gaedigk, A., Dunnenberger, H. M., Leeder, J. S., Klein, T. E., Caudle, K. E., ... & Relling, M. V. (2014). Clinical Pharmacogenetics Implementation Consortium guidelines for cytochrome P450 2D6 genotype and codeine therapy: 2014 update. Clinical Pharmacology & Therapeutics, 95(4), 376-382. https://ascpt.onlinelibrary.wiley.com/doi/full/10.1038/clpt.2013.254
 
 
 
