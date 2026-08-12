@@ -20,19 +20,23 @@
 และในบทที่ 3 เรารู้จักเอนไซม์ CYP450 ที่แปรรูปยาในตับ
 แต่ก่อนยาจะถึงตับหรือก่อนถูกขับออก มันต้องผ่าน **Drug Transporters**
 
-
+```
 Drug Transporters แบ่งเป็น 2 กลุ่มหลัก:
 
 1. Uptake Transporters (ขนยาเข้าเซลล์)
-   ├── OATP family (SLCO genes)
-   │   └── OATP1B1 (SLCO1B1): ขนยา → ตับ
+
+ ├── OATP family (SLCO genes)
+   │   └── OATP1B1 (SLCO1B1): ขนยา → ตับ 
    └── OCT family (SLC22A genes)
        └── OCT1 (SLC22A1): ขนยา → ตับ
 
-2. Efflux Transporters (ขนยาออกจากเซลล์)
+3. Efflux Transporters (ขนยาออกจากเซลล์)
+
    ├── P-gp (ABCB1): ขนยาออก ← พบทุกที่!
    ├── BCRP (ABCG2): ขนยาออก
    └── MRP family (ABCC genes): ขนยาออก
+
+```
 
 
 ## 11.2 OATP1B1 (SLCO1B1): ประตูทางเข้าตับ
@@ -159,20 +163,27 @@ Metformin
 
 ยาเดินทางในร่างกาย ต้องพบ Transporter หลายด่าน:
 
+```
+
 ลำไส้เล็ก
 ├── P-gp (ABCB1) ← ขนยากลับออก (ลดการดูดซึม)
 └── BCRP (ABCG2) ← ขนยากลับออก (Rosuvastatin สำคัญ)
+
 
 เลือด → ตับ
 └── OATP1B1 (SLCO1B1) ← ขนยาเข้าตับ (Statins สำคัญ)
     OCT1 (SLC22A1) ← ขนยาเข้าตับ (Metformin)
 
+
 ตับ → น้ำดี
 └── MRP2 (ABCC2) ← ขนยา+สารเมตาบอไลต์ออก
+
 
 เลือด → สมอง
 └── P-gp (ABCB1) ← ขนยาออกจาก BBB (ยาจิตเวช)
     BCRP (ABCG2) ← ขนยาออกจาก BBB
+
+```
 
 ## สรุปท้ายบท
 
